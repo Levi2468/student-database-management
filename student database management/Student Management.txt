@@ -1,0 +1,4 @@
+person1,1,sdfa,adf,sdafasdf-asfas-fasfa-,324124,ewfas,saffa,fasdfasf,sdfa,asf,asfa,Driving Licence,E:/vishnu python/images (1).png,343,68.60000000000001%,4535,342,68.4%,42542,234,46.800000000000004%,3452,tgewrt43,001,gsg,43532,234,43298,2025-02-21,241,24,
+person2,2,er243,4234,324grdgd-gs-gsd-gggg-,423412,dfas@ghola,asfas,asgag,agfag,fga,354325,Ration card,E:/vishnu python/fruits.png,342,68.4%,23424c,23,4.6%,c324v,233,46.6%,vc3244,qrwrt23,002,tttg,3452,234,3218,2025-02-21,324,2,
+person3,3,dasf,asf,asfasdfasf-asf-a-sf-as-df-,3425,grfge@fa,grtre,dag,fffda,fgsd,45fdgs,Ration card,E:/vishnu python/download.png,453,90.60000000000001%,5345v,34,6.800000000000001%, 3444444v3,43,8.6%,rt3345,twet45,003,fws,2324,324,2000,2025-02-21,3242,3,
+fafa,af,faf,dfa,dfasd-,asdfas,fasdfas,fasfasdf,sadfasdfa,dsfas,asdfa,adfasdf,Driving Licence,E:/vishnu python/download2.png,342,68.4%,4324423,324,64.8%,42343,23,4.6%,2424,42344,004,fgh,3424,23,3401,2025-02-22,2342,2,
